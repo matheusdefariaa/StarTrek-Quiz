@@ -32,7 +32,9 @@ Acertos:
 
 > No diretório do projeto
 ```bash 
-    cargo build --release
+    git clone git@github.com:matheusdefariaa/StarTrek-Quiz.git
+    cd StarTrek-Quiz/
+    cargo build --release && cargo run
 ```
 
 # Imagens
