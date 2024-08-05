@@ -23,14 +23,14 @@ Acertos:
 
 # Instalação
 
-### Para poder jogar é necessario o uso do cargo ou rustc
->Linux e MacOS
+### Para poder jogar é necessário o uso do cargo ou rustc
+> Instalação do cargo em Linux e MacOS
 
 ```bash 
     curl https://sh.rustup.rs -sSf | sh
 ```
 
-> No diretório do projeto
+> Clonar repositório, compilar e executar game
 ```bash 
     git clone git@github.com:matheusdefariaa/StarTrek-Quiz.git
     cd StarTrek-Quiz/
