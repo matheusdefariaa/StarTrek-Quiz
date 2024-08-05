@@ -36,4 +36,6 @@ Acertos:
 ```
 
 # Imagens
+<img src="img/logo.png">
+<img src="img/menu.png">
 
